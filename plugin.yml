@@ -1,0 +1,10 @@
+name: Envoys
+main: envoys\ChestSpawn
+version: 1.0.0
+api: 2.0.0
+description: No Description
+Author: JonsMC
+commands:
+   chest:
+     description: "Spawn random chest at spawn"
+     permission: envoys.chest
